@@ -35,7 +35,3 @@ The **challenge** section contains exercises that may go beyond what is covered 
 ## Solutions
 
 Coming Soon. 
-
-Open Exercise 4 SOLUTIONS in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3b_advanced_qgis_mapping_python/blob/main/h6_3b_advanced_qgis_and_mapping_in_python/solutions/HSMA 3B Exercise 4 - Enhancing our Static Map Plots.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
