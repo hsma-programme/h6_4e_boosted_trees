@@ -4,7 +4,9 @@
 
 ## Lecture Recording
 
-<a href="https://youtu.be/p3Bc2kDtPPs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+Boosted Trees for Classification: <a href="https://www.youtube.com/watch?v=o9WB1ncskzU"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Boosted Trees for Regression: <a href="https://www.youtube.com/watch?v=udlOEtFWYFc"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
 
 ## Exercises
 
